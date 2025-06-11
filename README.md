@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Engineer
 ----------------
 
-As an experienced software developer with over 7 years of experience, I am proficient in a variety of technologies, including JavaScript, NodeJS, TypeScript, Java, and Android development. With extensive experience in cloud technologies, including AWS and GCP, I am skilled in Serverless, S3, API Gateway, AppSync, Aurora, and Firebase. Additionally, I am proficient in various databases, including MySQL, PostgreSQL, MongoDB, DynamoDB, and Redis, and have experience integrating payment gateways like Stripe. I am experienced in using project management tools such as Jira and SourceTree and monitoring tools such as Grafana and Zulip. A strong engineering professional, I graduated from Dhirubhai Ambani Institute of Information and Communication Technology.
+As an experienced software developer with over 8 years of experience, I am proficient in a variety of technologies, including JavaScript, NodeJS, TypeScript, Java, and Android development. With extensive experience in cloud technologies, including AWS and GCP, I am skilled in Serverless, S3, API Gateway, AppSync, Aurora, and Firebase. Additionally, I am proficient in various databases, including MySQL, PostgreSQL, MongoDB, DynamoDB, and Redis, and have experience integrating payment gateways like Stripe. I am experienced in using project management tools such as Jira and SourceTree and monitoring tools such as Grafana and Zulip. A strong engineering professional, I graduated from Dhirubhai Ambani Institute of Information and Communication Technology.
 
 * 🌍  I'm based in Bengaluru, Karnataka, India
 * ✉️  You can contact me at [mitsdesai73@gmail.com](mailto:mitsdesai73@gmail.com)
